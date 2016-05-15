@@ -5,7 +5,7 @@ document.getElementById("foot01").innerHTML =
 //adds the navigation menu
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
-"<li><a href='emilyweb.html'>About Me</a></li>" +
+"<li><a href='index.html'>About Me</a></li>" +
 "<li><a href='emilyprojects.html'>Portfolio</a></li>" +
 "<li><a href='emilycontact.html'>Contact Information</a></li>" +
 "</ul>";
